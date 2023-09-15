@@ -6,7 +6,7 @@
 - Para desenvolvimento: [.Net 7.0.11 SDK](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-7.0.401-windows-x86-installer)
 
 ### Execução:
-- Caso deseja rodar a aplicação com executável, basta acessar a pasta **Executável** e abrir o arquivo **RPA.ConsultaProcessosPrimeiroGrau.eSAJ.exe**.
+- Caso deseja rodar a aplicação com executável, basta acessar a pasta **Executavel** e abrir o arquivo **RPA.ConsultaProcessosPrimeiroGrau.eSAJ.exe**.
 
 ### Pacotes Utilizados: 
 - Microsoft.Extensions.Hosting 7.0.1
